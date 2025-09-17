@@ -56,7 +56,7 @@ if left_or_right.lower() == "left":
 
     if tower_or_water.lower() == "water":
         print("You've entered the castle without being seen by the guards. Great job!")
-        colour_of_door = input("you found the secret room and are now face with 3 doors."
+        colour_of_door = input("you found the secret room and are now faced with 3 doors."
                                " A black door, a white door and a brown door."
                                 "Which colour door will you enter? ")
 
