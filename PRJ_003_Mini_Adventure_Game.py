@@ -61,7 +61,7 @@ if left_or_right.lower() == "left":
                                 "Which colour door will you enter? ")
 
         if colour_of_door.lower() == "white":
-            print("You've found a the Marauder's scroll. Congratulations!")
+            print("You've found the Marauder's scroll. Congratulations!")
         elif colour_of_door.lower() == "black":
             print("You've been cursed by the Black Druid and died. Game over")
         elif colour_of_door.lower() =="brown":
